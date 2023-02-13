@@ -1,4 +1,4 @@
-# turing-test
+# prompt-engineering-samples
 
 This repository contains Turing_Test.pdf, a pdf file documenting
 a Turing test dialogue between myself and a large language model.
