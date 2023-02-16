@@ -110,7 +110,7 @@ You're welcome! It was a pleasure to participate in this conversation. If you ha
 
 
 
-* This dialogue was generated using the January 30th, 2023 release of ChatGPT, accessed at this [URL](https://chat.openai.com/chat). Prompts that were just requests for continuations have been removed for readability and conciseness *.
+*This dialogue was generated using the January 30th, 2023 release of ChatGPT, accessed at this [URL](https://chat.openai.com/chat). Prompts that were just requests for continuations have been removed for readability and conciseness*.
 
 
 
