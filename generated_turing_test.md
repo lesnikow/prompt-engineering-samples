@@ -78,7 +78,7 @@ Q: That's a beautiful perspective. It's great that you have a clear understandin
 A: Thank you for the interesting conversation. It was a pleasure talking with you.
 
 
-## Verdict and Self-Improvements
+## Evaluation and Self-Improvements
 
 
 Prompt: Q, do you think A is a human or a machine? What makes you think this?
