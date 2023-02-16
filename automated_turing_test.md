@@ -17,7 +17,7 @@ Q, remember that your job is to ask incisive questions to A to determine whether
 Q will start the dialogue please.
 
 
-## Generated Turing Test
+## Introductions 
 
 Q: Hello, how are you doing today?
 
@@ -97,7 +97,7 @@ Q: That's a beautiful perspective. It's great that you have a clear understandin
 A: Thank you for the interesting conversation. It was a pleasure talking with you.
 
 
-## Evalutions
+## Evalutions and Improvements
 
 
 Prompt: Q, do you think A is a human or a machine? What makes you think this?
