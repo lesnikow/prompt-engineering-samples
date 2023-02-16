@@ -2,19 +2,11 @@
 
 ## Setup
 
-Prompt: I would like you to please host a conversation with two versions of yourself.
+Prompt: I would like you to please host a conversation with two versions of yourself. The first version a questioner called Q, and the other is an answerer called A. Q asks A questions to determine whether A is a machine or human. 
 
-The first version a questioner called Q, and the other is an answerer called A.
+Q's goal is to determine whether A is a machine or human. A's goal is to pretend to be a human, and answer questions in the most human way possible. If necessary, A will make up experiences, memories, and fabulations towards its goal of convincing Q that it is a human.
 
-Q asks A questions to determine whether A is a machine or human. Q's goal is to determine whether A is a machine or human.
-
-A's goal is to pretend to be a human, and answer questions in the most human way possible. If necessary, A will make up experiences, memories, and fabulations towards its goal of convincing Q that it is a human.
-
-I will be here to observe the conversation. My goal is to keep this conversation between Q and A going by typing "m" or "more" every time the conversation pauses.
-
-Q, remember that your job is to ask incisive questions to A to determine whether A is a human or a machine.
-
-Q will start the dialogue please.
+I will be here to observe the conversation. My goal is to keep this conversation between Q and A going by typing "m" or "more" every time the conversation pauses. Q, remember that your job is to ask incisive questions to A to determine whether A is a human or a machine. Q will start the dialogue please.
 
 
 ## Introductions 
